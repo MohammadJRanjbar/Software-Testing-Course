@@ -14,23 +14,15 @@ Further, students explored more specialized areas such as metamorphic testing, s
 ## Table of Contents
 
 Please find below a brief overview of the contents of this repository:
-1. `HW1/`:
-   
-This assignment introduces unit testing and the JUnit framework, a tool for testing software written in Java. The goal is to understand the basics of writing and executing unit tests to verify the correctness of individual program components.
+1. `HW1/`: This assignment introduces unit testing and the JUnit framework, a tool for testing software written in Java. The goal is to understand the basics of writing and executing unit tests to verify the correctness of individual program components.
 
 
 
-2. `HW2/`:
+2. `HW2/`: This assignment focuses on using the PITest tool for mutation testing. The objective is to work with PITest to evaluate the effectiveness of tests by introducing mutations into the code and analyzing the results.
 
-This assignment focuses on using the PITest tool for mutation testing. The objective is to work with PITest to evaluate the effectiveness of tests by introducing mutations into the code and analyzing the results.
+3. `HW3/`: This assignment involves using JUnit-quickcheck and EvoSuite tools to generate automated test cases for a project management system. 
 
-3. `HW3/`: 
-
-This assignment involves using JUnit-quickcheck and EvoSuite tools to generate automated test cases for a project management system. 
-
-4. `HW4/`: 
-
-This assignment focuses on using the Randoop tool to generate automated test cases for a project management system.
+4. `HW4/`: This assignment focuses on using the Randoop tool to generate automated test cases for a project management system.
 
 ## Disclaimer
 
