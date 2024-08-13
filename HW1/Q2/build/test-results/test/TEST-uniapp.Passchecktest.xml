@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uniapp.Passchecktest" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-05-16T13:00:44" hostname="LAPTOP-2JB655DQ" time="0.078">
+  <properties/>
+  <testcase name="testPassedNoPreNotMehman()" classname="uniapp.Passchecktest" time="0.028"/>
+  <testcase name="testPassedAllPreNotMehmanScoreBt10And12()" classname="uniapp.Passchecktest" time="0.001"/>
+  <testcase name="testPassedNotAllPreNotMehman()" classname="uniapp.Passchecktest" time="0.003"/>
+  <testcase name="testPassedNoPreMehmanScoreBt10And12()" classname="uniapp.Passchecktest" time="0.002"/>
+  <testcase name="testPassedAllPreMehman()" classname="uniapp.Passchecktest" time="0.003"/>
+  <testcase name="testPassedNoPreNotMehmanScoreBt0And9()" classname="uniapp.Passchecktest" time="0.001"/>
+  <testcase name="testPreNotInRecords()" classname="uniapp.Passchecktest" time="0.001"/>
+  <testcase name="testPassedNotAllPreMehman()" classname="uniapp.Passchecktest" time="0.003"/>
+  <testcase name="testHasNoRecords()" classname="uniapp.Passchecktest" time="0.002"/>
+  <testcase name="testPassedNotAllPreNotMehmanScoreBt0And12()" classname="uniapp.Passchecktest" time="0.002"/>
+  <testcase name="testPassedNoPreMehman()" classname="uniapp.Passchecktest" time="0.001"/>
+  <testcase name="testPassedAllPreNotMehman()" classname="uniapp.Passchecktest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

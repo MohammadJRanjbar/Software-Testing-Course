@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dramaplays.FactorPrinterTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2024-05-16T17:47:35" hostname="LAPTOP-2JB655DQ" time="0.128">
+  <properties/>
+  <testcase name="testPrintInvoicePlayTragedy0Audience()" classname="dramaplays.FactorPrinterTest" time="0.044"/>
+  <testcase name="testPrintInvoicePlayTragedyLessThan30Audience()" classname="dramaplays.FactorPrinterTest" time="0.004"/>
+  <testcase name="testPrintInvoicePlayComedyLessThan20Audience()" classname="dramaplays.FactorPrinterTest" time="0.004"/>
+  <testcase name="testPrintInvoicePlayTragedyandComedyOver30Audience()" classname="dramaplays.FactorPrinterTest" time="0.003"/>
+  <testcase name="testPrintInvoicePlayComedyMoreThan30Audience()" classname="dramaplays.FactorPrinterTest" time="0.003"/>
+  <testcase name="testPrintInvoicePlayComedy20Audience()" classname="dramaplays.FactorPrinterTest" time="0.002"/>
+  <testcase name="testPrintInvoicePlayTragedyMoreThan30Audience()" classname="dramaplays.FactorPrinterTest" time="0.002"/>
+  <testcase name="testPrintInvoicePlayTragedyandComedyOver20Under30Audience()" classname="dramaplays.FactorPrinterTest" time="0.002"/>
+  <testcase name="testPrintInvoicePlayTragedyOver20Under30Audience()" classname="dramaplays.FactorPrinterTest" time="0.003"/>
+  <testcase name="testPrintInvoicePlayComedyOver20Under30Audience()" classname="dramaplays.FactorPrinterTest" time="0.002"/>
+  <testcase name="testPrintInvoicePlayTragedyandComedy0Audience()" classname="dramaplays.FactorPrinterTest" time="0.002"/>
+  <testcase name="testPrintInvoicePlayTragedyandComedyUnder20Audience()" classname="dramaplays.FactorPrinterTest" time="0.002"/>
+  <testcase name="testPrintInvoicePlayComedy21Audience()" classname="dramaplays.FactorPrinterTest" time="0.003"/>
+  <testcase name="testPrintInvoiceNoPlay()" classname="dramaplays.FactorPrinterTest" time="0.002"/>
+  <testcase name="testPrintInvoicePlayTragedy30Audience()" classname="dramaplays.FactorPrinterTest" time="0.002"/>
+  <testcase name="testPrintInvoicePlayComedy0Audience()" classname="dramaplays.FactorPrinterTest" time="0.002"/>
+  <testcase name="testWithNewPlayTypes()" classname="dramaplays.FactorPrinterTest" time="0.004"/>
+  <testcase name="testPrintPlayTragedy31Audience()" classname="dramaplays.FactorPrinterTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
