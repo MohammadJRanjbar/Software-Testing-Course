@@ -1,4 +1,4 @@
-# Software-Testing-Course
+# Software-Testing-Course <img src="University_of_Tehran_logo.svg.png" alt="Software-Testing" width="50">
 Welcome to my repository, which contains coursework for the Software Testing course offered at the University of Tehran. This repository includes code for assignments and projects completed throughout the course. The course was instructed by:
 - [Dr. Ehsan Khamespanah]([https://scholar.google.com/citations?user=m7xdmMgAAAAJ&hl=en](https://scholar.google.com/citations?user=J22L-gEAAAAJ&hl=en))
 
